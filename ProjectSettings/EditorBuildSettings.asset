@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/3.attack.unity
     guid: 55ef3be050dd549478885b3c5a019e5b
+  - enabled: 1
+    path: Assets/5.gameover.unity
+    guid: 672b65b996343ff439ee5abd2862a83f

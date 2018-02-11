@@ -36,6 +36,11 @@ public class WordManager : MonoBehaviour {
             SceneManager.LoadScene("3.attack");
         }
 
+        if(Game == false)
+        {
+            SceneManager.LoadScene("5.GameOver");
+
+        }
 
     }
 
