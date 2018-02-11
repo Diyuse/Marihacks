@@ -33,7 +33,7 @@ public class WordManager : MonoBehaviour {
 
         if(Counter == 5)
         {
-            SceneManager.LoadScene("3.attack");
+            SceneManager.LoadScene("2.walk");
         }
 
         if(Game == false)

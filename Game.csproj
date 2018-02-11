@@ -284,6 +284,8 @@
   <ItemGroup>
     <Compile Include="Assets\GameOver.cs" />
     <Compile Include="Assets\Goback.cs" />
+    <Compile Include="Assets\Gotoback.cs" />
+    <Compile Include="Assets\Gotokill.cs" />
     <Compile Include="Assets\Scripts\AttackBar.cs" />
     <Compile Include="Assets\Scripts\BarScript.cs" />
     <Compile Include="Assets\Scripts\test.cs" />

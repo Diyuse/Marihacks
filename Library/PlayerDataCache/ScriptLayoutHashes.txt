@@ -1,7 +1,9 @@
 WindowsStandalone
 SceneListBegin?
 Assets/Main.unity
+Assets/2.walk.unity
 Assets/3.attack.unity
+Assets/4. snake defeated.unity
 Assets/5.gameover.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -154,3 +156,5 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Goback
 d5be1ca94278aa7358c511834dede500 Assembly-CSharp.dll:.TimedText
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GameOver
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Gotokill
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Gotoback

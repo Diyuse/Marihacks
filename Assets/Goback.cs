@@ -22,6 +22,6 @@ public class Goback : MonoBehaviour {
         
         yield return new WaitForSeconds(4);
         
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("4. snake defeated");
     }
 }
